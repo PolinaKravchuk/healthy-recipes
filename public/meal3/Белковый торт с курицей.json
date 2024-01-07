@@ -1,0 +1,175 @@
+{
+  "id": 296,
+  "title": "Белковый торт с курицей",
+  "tags": null,
+  "allowedUserTags": null,
+  "deniedUserTags": null,
+  "calorie": 246.75,
+  "proteins": 26.36,
+  "fats": 10.51,
+  "carbohydrates": 10.24,
+  "description": null,
+  "steps": [
+    "Яйцо слегка взбить.",
+    "Добавить отруби (можно без них), перемешать.",
+    "Из полученной массы испечь три блина на а/п сковороде.",
+    "Филе курицы заранее отварить, мелко нарезать.",
+    "В йогурт добавить измельченную свежую зелень, соль и перец по вкусу.",
+    "Выкладываем блин, промазываем йогуртом с зеленью, сверху кладем тонко нарезанный помидор и курицу, затем снова блин.",
+    "Подавать блюда охлажденным со свежими овощами по желанию."
+  ],
+  "mealTime": 3,
+  "week": 4,
+  "planId": 1600,
+  "timeToCook": null,
+  "image": "PTDN0402.jpg",
+  "type": 0,
+  "createdAt": "2021-05-23T17:30:09.739Z",
+  "updatedAt": "2021-05-23T17:30:09.739Z",
+  "foods": [
+    {
+      "id": 61,
+      "title": "куриное филе",
+      "calorie": 110,
+      "proteins": "23.1",
+      "fats": "1.2",
+      "carbohydrates": "0",
+      "indivisibleWeight": null,
+      "image": "mygr02",
+      "group": "M2",
+      "RecipeComponent": {
+        "weight": 50,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 0
+      },
+      "rate": 1.0487265550453244
+    },
+    {
+      "id": 192,
+      "title": "яйцо",
+      "calorie": 155,
+      "proteins": "13",
+      "fats": "11",
+      "carbohydrates": "1.1",
+      "indivisibleWeight": 55,
+      "image": "ycgr01",
+      "group": "M1",
+      "RecipeComponent": {
+        "weight": 55,
+        "quantity": 1,
+        "isIndivisible": true,
+        "order": 1
+      },
+      "rate": 1
+    },
+    {
+      "id": 31,
+      "title": "йогурт греческий",
+      "calorie": 66,
+      "proteins": "5",
+      "fats": "3.2",
+      "carbohydrates": "3.5",
+      "indivisibleWeight": null,
+      "image": "yogr01",
+      "group": "M1",
+      "RecipeComponent": {
+        "weight": 105,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 2
+      },
+      "rate": 1.0487265550453244
+    },
+    {
+      "id": 101,
+      "title": "отруби пшеничные",
+      "calorie": 180,
+      "proteins": "14.7",
+      "fats": "4.1",
+      "carbohydrates": "20.6",
+      "indivisibleWeight": null,
+      "image": "otno12",
+      "group": "M5",
+      "RecipeComponent": {
+        "weight": 5,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 3
+      },
+      "rate": 1.0487265550453246
+    },
+    {
+      "id": 27,
+      "title": "зелень",
+      "calorie": 36,
+      "proteins": "2.6",
+      "fats": "0.4",
+      "carbohydrates": "5.2",
+      "indivisibleWeight": null,
+      "image": "ovgr02",
+      "group": "M4",
+      "RecipeComponent": {
+        "weight": 20,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 4
+      },
+      "rate": 1.0487265550453246
+    },
+    {
+      "id": 110,
+      "title": "помидор",
+      "calorie": 20,
+      "proteins": "1.1",
+      "fats": "0.2",
+      "carbohydrates": "3.7",
+      "indivisibleWeight": null,
+      "image": "ovgr13",
+      "group": "M4",
+      "RecipeComponent": {
+        "weight": 105,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 5
+      },
+      "rate": 1.0487265550453246
+    },
+    {
+      "id": 142,
+      "title": "соль",
+      "calorie": 0,
+      "proteins": "0",
+      "fats": "0",
+      "carbohydrates": "0",
+      "indivisibleWeight": null,
+      "image": "otno19",
+      "group": "M5",
+      "RecipeComponent": {
+        "weight": 0,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 6
+      },
+      "rate": 1.03125
+    },
+    {
+      "id": 105,
+      "title": "перец",
+      "calorie": 251,
+      "proteins": "10.4",
+      "fats": "3.3",
+      "carbohydrates": "38.7",
+      "indivisibleWeight": null,
+      "image": "prno12",
+      "group": "M5",
+      "RecipeComponent": {
+        "weight": 0,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 7
+      },
+      "rate": 1.03125
+    }
+  ]
+}

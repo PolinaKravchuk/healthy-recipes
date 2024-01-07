@@ -1,0 +1,137 @@
+{
+  "id": 55,
+  "title": "Блинчики с красной рыбой и мягким творогом",
+  "tags": null,
+  "allowedUserTags": null,
+  "deniedUserTags": null,
+  "calorie": 480.2,
+  "proteins": 43.94,
+  "fats": 21.91,
+  "carbohydrates": 27.99,
+  "description": null,
+  "steps": [
+    "Яйцо смешать с кефиром, всыпать просеянную муку и перемешать, чтобы не было комочков.",
+    "Добавить соду, еще раз перемешать. Если тесто получается слишком густым, можно добавить воду в количестве 1 ст.л. Количество блинов зависит от их толщины, размера сковороды (в среднем 2-3 блина).",
+    "Блины выпекать на хорошо разогретой сухой сковороде (если сковорода не а/п, однократно смазать кисточкой с маслом дно).",
+    "На готовый блин выложить мягкий творог, рыбу, свернуть рулетом.",
+    "Подавать блюдо теплым."
+  ],
+  "mealTime": 0,
+  "week": 8,
+  "planId": 1600,
+  "timeToCook": null,
+  "image": "PTBF0806.jpg",
+  "type": 0,
+  "createdAt": "2021-05-23T17:28:54.265Z",
+  "updatedAt": "2021-05-23T17:28:54.265Z",
+  "foods": [
+    {
+      "id": 69,
+      "title": "лосось с/с",
+      "calorie": 233,
+      "proteins": "21.1",
+      "fats": "16.7",
+      "carbohydrates": "1",
+      "indivisibleWeight": null,
+      "image": "rbyw02",
+      "group": "M3",
+      "RecipeComponent": {
+        "weight": 50,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 0
+      },
+      "rate": 1.0383143210417203
+    },
+    {
+      "id": 150,
+      "title": "творог 5% мягкий",
+      "calorie": 121,
+      "proteins": "17.2",
+      "fats": "5",
+      "carbohydrates": "1.8",
+      "indivisibleWeight": null,
+      "image": "tvgr04",
+      "group": "M1",
+      "RecipeComponent": {
+        "weight": 125,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 1
+      },
+      "rate": 1.0383143210417203
+    },
+    {
+      "id": 192,
+      "title": "яйцо",
+      "calorie": 155,
+      "proteins": "13",
+      "fats": "11",
+      "carbohydrates": "1.1",
+      "indivisibleWeight": 55,
+      "image": "ycgr01",
+      "group": "M1",
+      "RecipeComponent": {
+        "weight": 55,
+        "quantity": 1,
+        "isIndivisible": true,
+        "order": 2
+      },
+      "rate": 1
+    },
+    {
+      "id": 90,
+      "title": "мука пшеничная",
+      "calorie": 342,
+      "proteins": "9.2",
+      "fats": "1.2",
+      "carbohydrates": "74.9",
+      "indivisibleWeight": null,
+      "image": "muyw02",
+      "group": "M5",
+      "RecipeComponent": {
+        "weight": 30,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 3
+      },
+      "rate": 1.0383143210417203
+    },
+    {
+      "id": 44,
+      "title": "кефир 1,5%",
+      "calorie": 41,
+      "proteins": "3.3",
+      "fats": "1.5",
+      "carbohydrates": "3.6",
+      "indivisibleWeight": null,
+      "image": "otno08",
+      "group": "M1",
+      "RecipeComponent": {
+        "weight": 60,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 4
+      },
+      "rate": 1.0383143210417203
+    },
+    {
+      "id": 141,
+      "title": "сода",
+      "calorie": 0,
+      "proteins": "0",
+      "fats": "0",
+      "carbohydrates": "0",
+      "indivisibleWeight": null,
+      "image": "otno18",
+      "group": "M5",
+      "RecipeComponent": {
+        "weight": 0,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 5
+      },
+      "rate": 1.03125
+    }
+  ]
+}

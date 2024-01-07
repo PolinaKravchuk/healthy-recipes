@@ -1,4 +1,13 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const withImages = require("next-images");
 
-module.exports = nextConfig
+const nextConfig = withImages({
+  webpack(config, options) {
+    return config;
+  },
+  images: {
+    domains: ["images.unsplash.com"],
+  },
+});
+
+module.exports = nextConfig;

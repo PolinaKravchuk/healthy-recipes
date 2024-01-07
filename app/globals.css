@@ -1,6 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #f1c40f; /* Change this to your desired color */
+  border-radius: 6px;
+}
 
 :root {
   --foreground-rgb: 0, 0, 0;

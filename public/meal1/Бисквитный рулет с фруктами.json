@@ -1,0 +1,161 @@
+{
+  "id": 78,
+  "title": "Бисквитный рулет с фруктами",
+  "tags": null,
+  "allowedUserTags": null,
+  "deniedUserTags": null,
+  "calorie": 489.35,
+  "proteins": 39.49,
+  "fats": 19.47,
+  "carbohydrates": 40.77,
+  "description": null,
+  "steps": [
+    "Отделить белки от желтков.",
+    "В желтки добавить разрыхлитель и 1/2 просеянной муки (лучше брать пшеничную первого или высшего сорта, так как на ц/з муке бисквит может не подняться), перемешать.",
+    "В белки добавить сахарозаменитель по вкусу, взбить с помощью венчика или миксера до средних пиков (в густую пену).",
+    "В желтки аккуратно добавлять взбитые белки, медленно перемешивая лопаткой.",
+    "Всыпать оставшуюся просеянную муку и еще раз осторожно перемешать массу до получения однородной консистенции.",
+    "Вылить тесто на противень, осторожно разровнять так, чтобы размер бисквита был не больше листа А4. Бисквит лучше всего выпекать на силиконовом коврике или пергаменте хорошего качества. Если у под рукой только противень, можно смазать его кусочком сливочного масла.",
+    "Отправить в разогретую духовку при температуре 180 градусов на 5-7 минут, пока не появится золотистая корочка.",
+    "В отдельной посуде смешать творог (лучше брать мягкий), сметану и нарезанный нектарин (подойдут также персик или лесные ягоды).",
+    "Бисквит достать из духовки, и не дожидаясь его полного остывания выложить на чистое полотенце.",
+    "На поверхность бисквита, не доходя несколько сантиметров до края, выложить начинку из творога и фруктов, после чего осторожно начать сворачивать его в рулет.",
+    "Готовому бисквитному рулету можно дать постоять несколько часов или употреблять сразу после остывания."
+  ],
+  "mealTime": 0,
+  "week": 12,
+  "planId": 1600,
+  "timeToCook": null,
+  "image": "PTBF1201.jpg",
+  "type": 0,
+  "createdAt": "2021-05-23T17:29:00.652Z",
+  "updatedAt": "2021-05-23T17:29:00.652Z",
+  "foods": [
+    {
+      "id": 148,
+      "title": "творог 2%",
+      "calorie": 103,
+      "proteins": "18",
+      "fats": "2",
+      "carbohydrates": "3.3",
+      "indivisibleWeight": null,
+      "image": "tvgr02",
+      "group": "M1",
+      "RecipeComponent": {
+        "weight": 115,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 0
+      },
+      "rate": 1.0489005907685514
+    },
+    {
+      "id": 192,
+      "title": "яйцо",
+      "calorie": 155,
+      "proteins": "13",
+      "fats": "11",
+      "carbohydrates": "1.1",
+      "indivisibleWeight": 55,
+      "image": "ycgr01",
+      "group": "M1",
+      "RecipeComponent": {
+        "weight": 110,
+        "quantity": 2,
+        "isIndivisible": true,
+        "order": 1
+      },
+      "rate": 1
+    },
+    {
+      "id": 139,
+      "title": "сметана 15%",
+      "calorie": 158,
+      "proteins": "2.6",
+      "fats": "15",
+      "carbohydrates": "3",
+      "indivisibleWeight": null,
+      "image": "smyw02",
+      "group": "M1",
+      "RecipeComponent": {
+        "weight": 30,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 2
+      },
+      "rate": 1.0489005907685511
+    },
+    {
+      "id": 90,
+      "title": "мука пшеничная",
+      "calorie": 342,
+      "proteins": "9.2",
+      "fats": "1.2",
+      "carbohydrates": "74.9",
+      "indivisibleWeight": null,
+      "image": "muyw02",
+      "group": "M5",
+      "RecipeComponent": {
+        "weight": 30,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 3
+      },
+      "rate": 1.0489005907685511
+    },
+    {
+      "id": 93,
+      "title": "нектарин",
+      "calorie": 48,
+      "proteins": "0.9",
+      "fats": "0.2",
+      "carbohydrates": "11.8",
+      "indivisibleWeight": null,
+      "image": "fryw11",
+      "group": "M4",
+      "RecipeComponent": {
+        "weight": 105,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 4
+      },
+      "rate": 1.0489005907685514
+    },
+    {
+      "id": 113,
+      "title": "разрыхлитель",
+      "calorie": 79,
+      "proteins": "0.1",
+      "fats": "0",
+      "carbohydrates": "19.6",
+      "indivisibleWeight": null,
+      "image": "otno13",
+      "group": "M5",
+      "RecipeComponent": {
+        "weight": 0,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 5
+      },
+      "rate": 1.03125
+    },
+    {
+      "id": 124,
+      "title": "сахарозаменитель",
+      "calorie": 1,
+      "proteins": "0",
+      "fats": "0",
+      "carbohydrates": "0.2",
+      "indivisibleWeight": null,
+      "image": "otno15",
+      "group": "M8",
+      "RecipeComponent": {
+        "weight": 0,
+        "quantity": null,
+        "isIndivisible": false,
+        "order": 6
+      },
+      "rate": 1.03125
+    }
+  ]
+}
