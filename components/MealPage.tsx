@@ -10,7 +10,7 @@ type foodType = {
 interface IMealPageProps {
   recipe: {
     title: string;
-    calories: string;
+    calorie: string;
     proteins: string;
     fats: string;
     carbohydrates: string;
@@ -19,7 +19,7 @@ interface IMealPageProps {
   };
 }
 const MealPage = async ({ recipe }: IMealPageProps) => {
-  const { title, calories, proteins, fats, carbohydrates, foods, steps } =
+  const { title, calorie, proteins, fats, carbohydrates, foods, steps } =
     recipe;
   const image = await fetchImageByTitle(title);
 
@@ -32,7 +32,7 @@ const MealPage = async ({ recipe }: IMealPageProps) => {
       )}
       <div className="mb-6">
         <h2 className="text-xl font-semibold mb-2">Nutrition Information:</h2>
-        <p>Calories: {calories}</p>
+        <p>Calories: {calorie}</p>
         <p>Proteins: {proteins}</p>
         <p>Fats: {fats}</p>
         <p>Carbohydrates: {carbohydrates}</p>

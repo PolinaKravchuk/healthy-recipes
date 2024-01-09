@@ -1,5 +1,6 @@
 // utils/unsplash.js
 import axios from "axios";
+// @ts-ignore
 import translate from "google-translate-api";
 
 const ACCESS_KEY = "ekb742Vs1Bfssk57L6EzFFU0fwXHX4uUZlPcSF5Ko2c";
