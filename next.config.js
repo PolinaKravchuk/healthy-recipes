@@ -8,8 +8,6 @@ const nextConfig = withImages({
   images: {
     domains: ["images.unsplash.com"],
   },
-  basePath: "/healthy-recipes",
-  assetPrefix: "./",
 });
 
 module.exports = nextConfig;
